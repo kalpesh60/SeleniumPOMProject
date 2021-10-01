@@ -1,0 +1,3 @@
+Testng\SeleniumPages\HomePage.class
+Testng\SeleniumPages\SignUP.class
+Testng\SeleniumSetup\Setup.class
